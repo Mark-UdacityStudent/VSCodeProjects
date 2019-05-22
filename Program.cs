@@ -132,6 +132,8 @@ namespace myconsoleapp
             Console.WriteLine("{0} ", a[991]);
             Console.WriteLine("{0} ", a[992]);
             Console.WriteLine("{0} ", a[993]);
+
+            *** new line ***
  */
 
         }
